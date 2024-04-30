@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: c1bd3e4977ecc9b4e842904136cda165
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740c0258a1e9464682cedbe5ee0be5d
+      internalID: -1542733548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 59
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6852eaf48a36d47a3f67057a3328d9
+      internalID: -1599045342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6487dd2c929d8340982818358a69128
+      internalID: -1623168913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a937af7e448c4b243aca62f9e64fefae
+      internalID: -1738931209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79567a001f4c0734ca2aad2e55c09526
+      internalID: -844644877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 60
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edb365714f24f43ba70077d4cbd6db
+      internalID: 485598763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9983f84ef6bcd42a50854af8e388e5
+      internalID: 1903281221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 60
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe897b4f5f106b439c85209e57cf05b
+      internalID: -2008519944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc085dd9adac46a43bf912c5f2917aa3
+      internalID: 1382803067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e4d2065c4f4d4fa8f8f8197864944
+      internalID: -127659707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9361e4a9eab6dc44d9d488ec17fcf72e
+      internalID: -2068764069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 42
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c1646c1a3bea246b8deefdcea79238
+      internalID: -1696054369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 42
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f4be5e35a81948bd181dc721462ab
+      internalID: 1341741318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 42
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305e88de44873d4ba5aff2025b4d34c
+      internalID: 1623603469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83397c1d4d8a36649a6983e1f837dc97
+      internalID: -1345961794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f2e87aaecd7c42b9a7c7d8e23202c
+      internalID: 120994909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572d279ef095e5428a9215136788259
+      internalID: 1389927590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe20a0b1aebae4195b379c083b47f5
+      internalID: 226166611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e90e969256b34849b8a46b1514aa3b7
+      internalID: 58589021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dbafbefdda2f646854e0733d6487da
+      internalID: -658244343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ce52e5152c6ab4db6834feaf4a0dce
+      internalID: -586936203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3243973c252e4db919ad1ca1e073c
+      internalID: -563434008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58289f621257a459b95518cd539adf
+      internalID: -658685699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95c6c7c30cb324bb7c67a65756450c
+      internalID: 1598503583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd47251ac2a39f4c996f9ac3d0361fb
+      internalID: -964466043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d03dd1c2524456498d7874eef11c8d7
+      internalID: -1647736413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e94aabb806883a48bb1adb28a158e19
+      internalID: 173775256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga Sprites mix of dimensions_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcdf674bf6a794498dfc6330580ae8
+      internalID: 11618164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Galaga Sprites mix of dimensions_0: -1542733548
+      Galaga Sprites mix of dimensions_1: -1599045342
+      Galaga Sprites mix of dimensions_10: -127659707
+      Galaga Sprites mix of dimensions_11: -2068764069
+      Galaga Sprites mix of dimensions_12: -1696054369
+      Galaga Sprites mix of dimensions_13: 1341741318
+      Galaga Sprites mix of dimensions_14: 581980053
+      Galaga Sprites mix of dimensions_15: 1623603469
+      Galaga Sprites mix of dimensions_16: -2004511035
+      Galaga Sprites mix of dimensions_17: -1345961794
+      Galaga Sprites mix of dimensions_18: 120994909
+      Galaga Sprites mix of dimensions_19: 1389927590
+      Galaga Sprites mix of dimensions_2: -1623168913
+      Galaga Sprites mix of dimensions_20: 226166611
+      Galaga Sprites mix of dimensions_21: 770276245
+      Galaga Sprites mix of dimensions_22: 1512653240
+      Galaga Sprites mix of dimensions_23: 58589021
+      Galaga Sprites mix of dimensions_24: -658244343
+      Galaga Sprites mix of dimensions_25: -586936203
+      Galaga Sprites mix of dimensions_26: -107979062
+      Galaga Sprites mix of dimensions_27: -563434008
+      Galaga Sprites mix of dimensions_28: -658685699
+      Galaga Sprites mix of dimensions_29: 1598503583
+      Galaga Sprites mix of dimensions_3: -1738931209
+      Galaga Sprites mix of dimensions_30: -964466043
+      Galaga Sprites mix of dimensions_31: -1647736413
+      Galaga Sprites mix of dimensions_32: 173775256
+      Galaga Sprites mix of dimensions_33: 670910985
+      Galaga Sprites mix of dimensions_34: -1436546391
+      Galaga Sprites mix of dimensions_35: 11618164
+      Galaga Sprites mix of dimensions_4: -844644877
+      Galaga Sprites mix of dimensions_5: 485598763
+      Galaga Sprites mix of dimensions_6: 1903281221
+      Galaga Sprites mix of dimensions_7: -2008519944
+      Galaga Sprites mix of dimensions_8: 1137344715
+      Galaga Sprites mix of dimensions_9: 1382803067
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
